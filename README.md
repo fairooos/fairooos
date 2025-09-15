@@ -1,4 +1,4 @@
-# <img width="27px" height="50"  style="padding-right:20px;"  alt="icons8-yin-yang-50" src="https://github.com/user-attachments/assets/53d05f72-1598-4a48-927b-9821614c435d" /> Mohammed Fairoos
+# <img width="27px" height="50"  style="padding-right:20px;"  alt="icons8-yin-yang-50" src="https://github.com/user-attachments/assets/53d05f72-1598-4a48-927b-9821614c435d" /> Fairoos palakkal
 
 **`Just a guy building useful AI stuff`**
 
