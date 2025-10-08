@@ -1,4 +1,4 @@
-https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif
+
 # <img width="27px" height="50"  style="padding-right:20px;"  alt="icons8-yin-yang-50" src="https://github.com/user-attachments/assets/53d05f72-1598-4a48-927b-9821614c435d" /> Fairoos Palakkal
 
 **`Just a guy building useful AI & backend systems`**
