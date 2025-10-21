@@ -44,7 +44,7 @@ Right now, I'm diving deeper into computer vision, object detection (YOLO, OpenC
 - Basic NLP tools
 
 #### 🛠️ Dev & Backend  
-- **FastAPI / Flask / Streamlit** (APIs & web apps)  
+- **FastAPI / Docker / Streamlit** (APIs & web apps)  
 - Docker (containerization & deployment)  
 - VS Code / Jupyter / Colab  
 - Git / GitHub (version control)
